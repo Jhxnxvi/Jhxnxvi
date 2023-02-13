@@ -13,6 +13,16 @@
 
 -:art: I am a very creative individual who loves to draw and crochet in their free time!! 
 Click here to view my art page: <a href="https://www.instagram.com/jsartandcrafts/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jsartandcrafts" height="30" width="30" /></a>
+<br>
+<br>
+<td>★</td> Data engineering is a whole new skillset that i am ready to take on, i have had previous experience with programming languages such as Python but i am excited to expand my knowledge on all languages that i have not yet touched upon.
+<br>
+<td>★</td> I enjoy working with others on challenging projects that may require creative problem-solving and attention to detail, and I believe that i am eager to learn new technologies and programming languages as well as extending my skillsets further. I consider myself to be a very motivated and collaborative individual who is dedicated to delivering outstanding results on every project I work on.
+</div>
+<br>
+<h2> Connect With Me</h2>
+
+<a href="https://linkedin.com/in/jhanavi-patel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="jhanavi-patel-603499235" height="40" width="40" /></a>
 <!--
 **Jhxnxvi/Jhxnxvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
