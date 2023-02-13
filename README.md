@@ -12,6 +12,7 @@
 -<td>❤</td> 2023 Goals: I hope to have graduated from Xander Academy and land a client placement after my 6 weeks of training is up!!
 
 -:art: I am a very creative individual who loves to draw and crochet in their free time!! 
+
 Click here to view my art page: <a href="https://www.instagram.com/jsartandcrafts/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jsartandcrafts" height="30" width="30" /></a>
 <br>
 <br>
