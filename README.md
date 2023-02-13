@@ -22,7 +22,7 @@ Click here to view my art page: <a href="https://www.instagram.com/jsartandcraft
 <br>
 <h2> Connect With Me</h2>
 
-<a href="https://www.linkedin.com/in/jhanavi-patel-603499235/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt= height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/jhanavi-patel-603499235/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt= "jhanavi-patel-603499235" height="40" width="40" /></a>
 <!--
 **Jhxnxvi/Jhxnxvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
