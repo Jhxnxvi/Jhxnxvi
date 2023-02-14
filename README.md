@@ -13,7 +13,7 @@
 
 -:art: I am a very creative individual who loves to draw and crochet in their free time!! 
 
-Click here to view my art page: <a href="https://www.instagram.com/jsartandcrafts/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jsartandcrafts" height="30" width="30" /></a>
+Visit my art account <td>➤</td> <a href="https://www.instagram.com/jsartandcrafts/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jsartandcrafts" height="30" width="30" /></a>
 <br>
 <br>
 <td>★</td> Data engineering is a whole new skillset that i am ready to take on, i have had previous experience with programming languages such as Python but i am excited to expand my knowledge on all languages that i have not yet touched upon.
