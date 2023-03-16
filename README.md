@@ -1,4 +1,3 @@
-![Jhanavi's Github Profile Views]
 <h1 align="center">Hey There <td>☻</td>
 <h2 align="center">I'm Jhanavi Patel, a Digital Forensics & Cyber Security Graduate.</h2>
 <p align="center">I'm passionate to build upon my skillset with each day, and to be creative with code!</p>
