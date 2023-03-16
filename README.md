@@ -23,6 +23,7 @@ Visit my art account <td>➤</td> <a href="https://www.instagram.com/jsartandcra
 <td>★</td> I enjoy working with others on challenging projects that may require creative problem-solving and attention to detail, and I believe that i am eager to learn new technologies and programming languages as well as extending my skillsets further. I consider myself to be a very motivated and collaborative individual who is dedicated to delivering outstanding results on every project I work on.
 </div>
 <br>
+
 ---
 
 ### Connect With Me :
