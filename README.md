@@ -1,3 +1,6 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/6vj5quVNRhoQw/giphy.gif" width="100"/>
+</div>
 <h1 align="center">Hey There <td>☻</td>
 <h2 align="center">I'm Jhanavi Patel, a Digital Forensics & Cyber Security Graduate.</h2>
 <p align="center">I'm passionate to build upon my skillset with each day, and to be creative with code!</p>
