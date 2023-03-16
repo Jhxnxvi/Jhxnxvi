@@ -26,9 +26,10 @@ Visit my art account <td>➤</td> <a href="https://www.instagram.com/jsartandcra
 <h2> Connect With Me</h2>
 
 <a href="https://www.linkedin.com/in/jhanavi-patel-603499235/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt= "jhanavi-patel-603499235" height="40" width="40" /></a>
+
 ### :hammer_and_wrench: Languages and Tools :
 <div>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> title="Python" alt="Python" width="40" height="40"/>&nbsp;
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> title="Python"  alt="PythonL" width="40"  height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
