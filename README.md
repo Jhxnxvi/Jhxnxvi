@@ -23,7 +23,9 @@ Visit my art account <td>➤</td> <a href="https://www.instagram.com/jsartandcra
 <td>★</td> I enjoy working with others on challenging projects that may require creative problem-solving and attention to detail, and I believe that i am eager to learn new technologies and programming languages as well as extending my skillsets further. I consider myself to be a very motivated and collaborative individual who is dedicated to delivering outstanding results on every project I work on.
 </div>
 <br>
-<h2> Connect With Me</h2>
+---
+
+### Connect With Me :
 
 <a href="https://www.linkedin.com/in/jhanavi-patel-603499235/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt= "jhanavi-patel-603499235" height="40" width="40" /></a>
 
@@ -32,13 +34,14 @@ Visit my art account <td>➤</td> <a href="https://www.instagram.com/jsartandcra
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+ 
 </div>
 
 ---
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Jhxnxvi&theme=rose-pine)](https://git.io/streak-stats)
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jhxnxvi)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
