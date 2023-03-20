@@ -41,6 +41,7 @@ Visit my art account <td>➤</td> <a href="https://www.instagram.com/jsartandcra
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Jhxnxvi&theme=rose-pine)](https://git.io/streak-stats)
+
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jhxnxvi)](https://github.com/anuraghazra/github-readme-stats)
 
